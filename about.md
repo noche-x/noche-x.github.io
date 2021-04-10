@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a 17 year old programmer, hacker, reverse engineeer, ui designer, linux enthusiast from Turkey.
+I love science and computers.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm currently busy with a lot of school work, so I'm unable to do much programming, only small stuff.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[noche-x@protonmail.com](mailto:noche-x@protonmail.com)
